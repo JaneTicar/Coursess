@@ -1,0 +1,8 @@
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\bin\Debug\netcoreapp2.0\Courses.Web.deps.json
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\bin\Debug\netcoreapp2.0\Courses.Web.runtimeconfig.json
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\bin\Debug\netcoreapp2.0\Courses.Web.runtimeconfig.dev.json
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\bin\Debug\netcoreapp2.0\Courses.Web.dll
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\obj\Debug\netcoreapp2.0\Courses.Web.csprojResolveAssemblyReference.cache
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\obj\Debug\netcoreapp2.0\Courses.Web.csproj.CoreCompileInputs.cache
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\obj\Debug\netcoreapp2.0\Courses.Web.AssemblyInfoInputs.cache
+C:\Users\JaneTicar\Desktop\Project\Courses.Web\Courses.Web\obj\Debug\netcoreapp2.0\Courses.Web.AssemblyInfo.cs
